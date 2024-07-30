@@ -5,10 +5,10 @@ I'm Ekene, a CS major at Minerva University passionate about tech and building f
 - 🔭 I’m currently working on improving my problem-solving and backend development skills.
 - 🌱 I’m currently learning how to contribute to open-source projects.
 - 👯 I’m looking to collaborate on any open-source project.
+- ⚡ Fun fact: Leetcode problems 
 
 ## Technologies and Frameworks I use.
-![image](https://github.com/user-attachments/assets/5df22f3a-30f3-4b94-bd66-32527d8f5465)
-![image](https://github.com/user-attachments/assets/4a20e5e0-76d6-46b6-b247-155e9d9e4cef)
+![image](https://github.com/user-attachments/assets/a5786a94-ec12-4a15-8f91-ec3d79cb47a1)
 
 
 <!--
