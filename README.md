@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Ekene, a CS major at Minerva University passionate about tech and building fast and efficient applications.
+
+- 🔭 I’m currently working on becoming a GOAT in competitive programming.
+- 🌱 I’m currently learning how to contribute to open-source projects
+- 👯 I’m looking to collaborate on any open-source project
+
 <!--
 **Ekene-Azubuko/Ekene-Azubuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
