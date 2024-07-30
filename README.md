@@ -7,7 +7,8 @@ I'm Ekene, a CS major at Minerva University passionate about tech and building f
 - 👯 I’m looking to collaborate on any open-source project.
 
 ## Technologies and Frameworks I use.
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyp7FFYRwNKbTumOgu4zGIJOQpv8y0ngkLHw&s
+![image](https://github.com/user-attachments/assets/5df22f3a-30f3-4b94-bd66-32527d8f5465)
+
 
 <!--
 **Ekene-Azubuko/Ekene-Azubuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
