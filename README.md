@@ -8,6 +8,7 @@ I'm Ekene, a CS major at Minerva University passionate about tech and building f
 
 ## Technologies and Frameworks I use.
 ![image](https://github.com/user-attachments/assets/5df22f3a-30f3-4b94-bd66-32527d8f5465)
+![image](https://github.com/user-attachments/assets/4a20e5e0-76d6-46b6-b247-155e9d9e4cef)
 
 
 <!--
