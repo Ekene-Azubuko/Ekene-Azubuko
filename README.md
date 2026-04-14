@@ -21,6 +21,8 @@ I'm Ekene, a Junior CS major at Minerva University. I build tools and applicatio
 
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
 
 **Databases & DevOps**
 
