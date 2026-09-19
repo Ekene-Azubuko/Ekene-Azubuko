@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Ekene, a Junior CS major at Minerva University. I build tools and applications that solve real problems.
+I'm Ekene, a CS major at Minerva University. I build tools and applications that solve real problems.
 
 - 🔭 I'm currently working on full-stack and backend projects.
 - 👯 I'm open to collaborating on open-source projects.
